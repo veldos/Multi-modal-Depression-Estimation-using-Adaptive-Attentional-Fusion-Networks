@@ -369,7 +369,6 @@ This research utilizes a **privately curated multi-modal dataset** specifically 
 
 *Made with ❤️ for advancing AI in mental healthcare*
 
-[![Star History Chart]([![Star History Chart](https://api.star-history.com/svg?repos=veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks&type=Timeline)](https://star-history.com/#veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks&Timeline)
-)
+[![Star History Chart](https://api.star-history.com/svg?repos=veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks&type=Timeline)](https://star-history.com/#veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks&Timeline)
 
 </div>
