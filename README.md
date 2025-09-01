@@ -112,7 +112,7 @@ Processes linguistic patterns and dependencies
 ### 🧠 Adaptive Fusion Architecture
 
 <div align="center">
-<img src="https://github.com/veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks/tree/main/images/ConvBiLSTM_Sub-Atten.png" width="80%">
+<img src="https://github.com/veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks/blob/main/images/ConvBiLSTM_Sub-Atten.png" width="80%">
 <br>
 <i>Overall Architecture: Adaptive ConvBiLSTM with Multi-modal Fusion</i>
 </div>
@@ -125,7 +125,7 @@ Processes linguistic patterns and dependencies
 - **📊 Real-time Adaptation**: Dynamic attention shifting based on input reliability
 
 <div align="center">
-<img src="https://github.com/veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks/tree/main/images/Attentional_Fusion_Block.png" width="60%">
+<img src="https://github.com/veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks/blob/main/images/Attentional_Fusion_Block.png" width="60%">
 <br>
 <i>Attentional Fusion Block: Local and Global Attention Mechanisms</i>
 </div>
