@@ -12,7 +12,7 @@
 
 *Combining Visual, Acoustic, and Textual Modalities for Robust Depression Assessment*
 
-[📖 Paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_42) • [🚀 Quick Start](#-quick-start) • [📊 Results](#-results-and-visualization) • [🤝 Contributing](#-contributing)
+ [🚀 Quick Start](#-quick-start) • [📊 Results](#-results-and-visualization) • [🤝 Contributing](#-contributing)
 
 </div>
 
