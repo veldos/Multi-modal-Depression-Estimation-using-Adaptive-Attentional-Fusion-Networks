@@ -89,7 +89,7 @@ Captures subtle facial movements and expressions
 <br>
 *CNN-BiLSTM spectrogram processing*
 <br><br>
-<img src="https://github.com/veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks/tree/main/images/mel_spectrogram_comparison.png" width="200">
+<img src="https://github.com/veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks/blob/main/images/mel_spectrogram_comparison.png" width="200">
 <br>
 Models frequency and temporal speech dynamics
 
@@ -100,7 +100,7 @@ Models frequency and temporal speech dynamics
 <br>
 *Semantic content understanding*
 <br><br>
-<img src="https://github.com/veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks/tree/main/images/sentence_embeddings.png" width="200">
+<img src="https://github.com/veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks/blob/main/images/sentence_embeddings.png" width="200">
 <br>
 Processes linguistic patterns and dependencies
 
@@ -369,6 +369,7 @@ This research utilizes a **privately curated multi-modal dataset** specifically 
 
 *Made with ❤️ for advancing AI in mental healthcare*
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/Multi-modal-Depression-Estimation&type=Timeline)](https://star-history.com/#your-username/Multi-modal-Depression-Estimation&Timeline)
+[![Star History Chart]([![Star History Chart](https://api.star-history.com/svg?repos=veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks&type=Timeline)](https://star-history.com/#veldos/Multi-modal-Depression-Estimation-using-Adaptive-Attentional-Fusion-Networks&Timeline)
+)
 
 </div>
