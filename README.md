@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-Springer-red.svg)](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_42)
+[![Paper](https://img.shields.io/badge/Paper-Springer-red.svg)](https://link.springer.com)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **🔬 Advanced AI Framework for Objective Mental Health Screening**
